@@ -1,0 +1,24 @@
+.content{
+  background-color : #444444;
+  height:100vh;
+}
+.head-label{
+  font-size : 32px;
+}
+.tr-background{
+  background-color: #333333 ;
+  padding : 10px;
+  color:#FF8000;
+}
+
+.tr-background .btn{
+  font-size:24px;
+}
+.span-menu{
+  font-size:24px;
+}
+
+.menu-content{
+  padding : 20px;
+  display:flex;
+}

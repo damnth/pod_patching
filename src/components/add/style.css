@@ -1,0 +1,33 @@
+.add-menu{
+    display:inline-block;
+    padding : 10px;
+    background-color:transparent;
+    height:100%;
+    width:400px;
+}
+
+.add-content{
+    display:inline-block;
+    padding : 10px;
+    background-color:grey;
+    width:800px;
+    border-radius:10px;
+    color : white;
+}
+
+.add-content textarea{
+    width:100%;
+}
+
+.data-table{
+    max-height:300px;
+    overflow-y: auto;
+}
+
+.add-data{
+    text-align: center;
+}
+
+.data-body{
+
+}
